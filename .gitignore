@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+*.pyd
+
+# Virtual environment
+venv/
+.venv/
+env/
+ENV/
+pyvenv.cfg
+*.virtualenv
+
+# Jupyter Notebook related files
+.ipynb_checkpoints/
+*.ipynb.orig
+
+# Editor-specific files (add others as needed)
+.idea/
+.vscode/
+*.swp
+*~
+*.bak
+*.tmp
+.DS_Store
+
+# Other files you might want to ignore (e.g., data files, logs)
+# data/
+# logs/
+*.log

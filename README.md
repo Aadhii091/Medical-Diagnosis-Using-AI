@@ -4,7 +4,6 @@ Using Machine Learning algorithms to predict the Lung disease, Diabetics, Parkin
 **Problem Statement**
 
 In today's healthcare system, medical diagnosis is often prone to human error or delays, as doctors face increasing amounts of patient data-symptoms, medical history, lab results, and imaging-making it hard to analyze everything quickly.
-
 The complexity of diseases and varied patient symptoms further complicate decision-making, especially in high-pressure or resource-limited settings.
 
 Key Challenges:
@@ -20,11 +19,8 @@ Challenges in Disease Complexity
 **Proposed Solution**
 
 Al can streamline medical diagnosis by analyzing large volumes of patient data-symptoms, history, labs, and imaging-quickly and accurately.
-
 In high-pressure settings like emergency rooms, Al can help detect critical conditions, such as heart attacks, reducing the risk of misdiagnosis.
-
 By processing EHRs efficiently, Al ensures no crucial data is overlooked, supporting doctors in making faster, more informed decisions, even in complex or resource-limited scenarios.
-
 This leads to improved accuracy, reduced diagnostic delays, and better patient outcomes.
 
 **System Architecture**
